@@ -1,0 +1,15 @@
+{
+  "hash": "bc5e32f2b140bc42edbd0cf8e3a32286",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"My New Post\"\nauthor: \"Handy Harry\"\ndate: today\ncategories: [news, tech, code-snippets, Forth, C, Linux, Embedded, IoT]\nimage: \"oceano_C_start.png\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
