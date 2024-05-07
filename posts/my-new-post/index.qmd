@@ -1,0 +1,13 @@
+---
+title: "My New Post"
+author: "Handy Harry"
+date: today
+categories: [news, tech, code, programming, engineering, Forth, C, Linux, Embedded, IoT]
+image: "oceano_C_start.png"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
